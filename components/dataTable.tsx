@@ -54,7 +54,7 @@ export default function DataTable() {
                             <div className="w-full h-[18rem] flex flex-col items-center rounded-md justify-center border-2 border-dotted border-slate-300">
                                 <MdFolder size={100} className="text-blue-500 mb-2" />
                                 <span className="text-sm text-gray-400 mb-1"> No content to display</span>
-                                <span className="text-sm text-gray-400">Try Uploading a file or adding text note from left panal</span>
+                                <span className="text-sm text-gray-400">Try Uploading a file or adding text note from right panal</span>
                             </div>
                         )
                 }
